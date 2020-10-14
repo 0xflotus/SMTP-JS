@@ -1,6 +1,6 @@
 {
   "name": "smtp-js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Just an app that sends emails to everyone.",
   "main": "index.js",
   "scripts": {
