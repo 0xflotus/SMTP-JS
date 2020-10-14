@@ -9,6 +9,7 @@ Here's how to install the smpt and make it work (in cmd).
 - ``cd directory``
 - ``npm i``
 - config the file `infos.json` & `mails_list.txt` in SMTP-CONFIG
+- **accept your account to send mail with API (account gmail) !!**
 - ``node index.js``
 
 ## Powered by NodeJS
