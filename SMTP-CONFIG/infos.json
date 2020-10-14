@@ -1,0 +1,10 @@
+{
+    "_comment": "Only send with GMAIl account",
+
+
+    "yourmail": "your_email.com",
+    "yourpassword": "passwordOfYourMail",
+
+    "subject": "Title of your mail",
+    "texts": "Texts in your mail"
+}

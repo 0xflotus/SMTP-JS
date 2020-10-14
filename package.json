@@ -1,0 +1,21 @@
+{
+  "name": "smtp-js",
+  "version": "0.0.1",
+  "description": "Just an app that sends emails to everyone.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "smtp",
+    "smtp-js",
+    "js",
+    "javascript"
+  ],
+  "author": "MaXoooZ",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "nodemailer": "^6.4.14"
+  }
+}
